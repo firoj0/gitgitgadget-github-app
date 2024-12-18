@@ -1,4 +1,4 @@
-# GitGitGadget's GitHub App
+# GitGitGadget's GitHuub App
 
 The purpose of GitGitGadget's GitHub App is two-fold:
 
